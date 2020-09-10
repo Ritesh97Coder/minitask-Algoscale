@@ -1,0 +1,21 @@
+#Please go through Project_images for outcomes.
+
+# Fully Responsive
+
+# HomePage
+
+# At homePage displaying the task that is assigned to me.
+
+# At right corner Admin is there 
+
+# After clicking on ADMIN you are redirected to Sign in 
+
+# At Sign in ,if user id and password is valid then that is directly logged in and able to go at profile page
+  and also there will be updation form in dashboard for updating the password.
+
+# if either user id  or password is not validated it means invalid then error message will be displayed.
+  And thereafter kindly Sign Up.
+
+# All the registered users are stored in mongodb database 
+
+# users profile may be deleted from database by deleting simply and also editable.
